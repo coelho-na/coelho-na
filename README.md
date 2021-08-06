@@ -4,25 +4,27 @@
 <br>
 
 <div align="left">
-<p > 
- <samp><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, my name is Nadine Coelho.   I am <strong>Front-End Development Student</strong> 👩‍💻. </samp>
-  <p><a target="_blank" href="https://www.linkedin.com/in/coelho-na/"><img src="https://img.shields.io/badge/-@coelho--na-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/coelho-na/" alt="LinkedIn Badge"> <a target="_blank" href="https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq"><img src="https://img.shields.io/badge/-coelho--na-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq" alt="Spotify Badge"></a></p>
-</p>
+<p> 
+ <samp>
+   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, my name is Nadine Coelho. 
+ </samp>
+  <p> 
+    <a target="_blank" href="https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq">
+      <img src="https://img.shields.io/badge/-coelho--na-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq" alt="Spotify Badge">
+    </a>
+ 
+  </p>
+ </p>
+  
 <samp>
-
   <h5>🖥️ Front-End Development Student. </h5>
-  <h5>🎯 Focused on learning everything about Web Development and become a Pro.</h5>
+  <h5>🎯 Focused on learning everything about Web Development to become a Pro.</h5>
   <h5>🥇 Learning React.</h5>
   <h5>😍 Music and Eat.</h5>
   <h5>👩‍💻 "She" | "Her" </h5> 
-
-  </samp>
+</samp>
  
- <div align="center">
-  <a href="https://github.com/gabrielcostarep">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=coelho-na&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelho-na&layout=compact&langs_count=16&theme=dark"/>
-</div>
+ 
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
@@ -35,18 +37,25 @@
 </div>
   
   ##
+
+  
+  ![Snake animation](https://github.com/coelho-na/coelho-na/blob/output/github-contribution-grid-snake.svg)
  
-<div align="center"> 
+ ##
+ <samp>
+  <h4>💬<strong> Find me: </strong></h4>
+ </samp>
+ <div align="center"> 
   <a href = "mailto:nadine_coelho@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/coelho_na/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/coelho-na/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-
-  
-  ![Snake animation](https://github.com/coelho-na/coelho-na/blob/output/github-contribution-grid-snake.svg)
- 
-
+ ##
+  <samp>
+    <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/coelho-na">Nadine Coelho</a></h4>
+    <p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 06/08/2021 </p>
+  </samp>
 </div>
 
 
