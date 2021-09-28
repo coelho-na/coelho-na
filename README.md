@@ -12,7 +12,12 @@
     <a target="_blank" href="https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq">
       <img src="https://img.shields.io/badge/-coelho--na-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22kzmah6evjt6zxodgo57wbjq" alt="Spotify Badge">
     </a>
- 
+    <a href="https://codepen.io/coelho-na" target="_blank">
+      <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" height="20px"/>
+    </a>
+    <a href="https://www.hackerrank.com/coelho_na?hr_r=1">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20px" />
+    </a>  
   </p>
  </p>
   
@@ -54,7 +59,7 @@
  ##
   <samp>
     <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/coelho-na">Nadine Coelho</a></h4>
-    <p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 06/08/2021 </p>
+    <p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 28/09/2021 </p>
   </samp>
 </div>
 
